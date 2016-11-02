@@ -3,4 +3,4 @@ Multiple kernel imputation
 
 Work in progress...
 
-Released!
+MUKIM R-package tar-file released!
